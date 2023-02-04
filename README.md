@@ -10,3 +10,6 @@ Requirements
   
 To run this code, you need to:
   run python main.py  --config [path of config files]  --gpu [gpu, optional]
+  
+Because the dataset is so large, the full dataset is available at the following link.
+  https://pan.baidu.com/s/1Bh1Wrc3cS5Nz8K9zXGt3fg    Extraction Code：punw
